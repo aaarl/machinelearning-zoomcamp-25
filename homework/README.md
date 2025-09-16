@@ -1,3 +1,3 @@
 todo
 
-Homework 7 is missing from the Machine Learning Zoomcamp 2025
+Homework 7 is missing in the Machine Learning Zoomcamp 2025
